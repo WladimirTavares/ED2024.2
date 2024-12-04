@@ -1,8 +1,8 @@
 # CK0109 - Estrutura de Dados
 
 Professores:
-* Wladimir A. Tavares
-* 
+* Wladimir Araújo Tavares
+* Mateus Santos Araújo
 
 # Ementa
 
